@@ -4,7 +4,7 @@ A working Express.js API configured to use Sequelize and interact with a MySQL d
 ## Table of Contents
 
 1. [Description](https://github.com/EChrist01/e-commerce-backend/blob/main/README.md#description)
-2. [Installation]()
+2. [Installation](https://github.com/EChrist01/e-commerce-backend/blob/main/README.md#installation-instructions)
 3. [Usage]()
 4. [Demo]()
 5. [Questions]()
