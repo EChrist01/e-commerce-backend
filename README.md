@@ -31,12 +31,17 @@ Run on - MySqlWorkbench, Insomnia.
 
 ## Usage Information.
 -Clone this repo, in the terminal (gitBash) of the folder run <$ npm i> 
--Then to kick off the server we will <$ npm run seed && npm start> in our same termianl.
--check your localhost:3001 is running in a test server
 
+-Then to kick off the server we will <$ npm run seed && npm start> in our same termianl.
+
+-check your localhost:3001 is running in a test server
 ## Demo.
+
+![Screenshot 2024-02-19 110034](https://github.com/EChrist01/e-commerce-backend/assets/146894896/97b06a51-9a84-4665-b0a8-47f44fae5ed9)
+
 
 ## Questions
 Github profile: 
+
 Email: Ethanchrist02@gmail.com
 
