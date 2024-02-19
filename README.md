@@ -45,3 +45,7 @@ Github profile:
 
 Email: Ethanchrist02@gmail.com
 
+##Contributors
+activities 13-ORM and 12-SQL, Stackoverflow(eager error loading).
+
+
