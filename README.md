@@ -7,7 +7,7 @@ A working Express.js API configured to use Sequelize and interact with a MySQL d
 2. [Installation](https://github.com/EChrist01/e-commerce-backend/blob/main/README.md#installation-instructions)
 3. [Usage](https://github.com/EChrist01/e-commerce-backend/blob/main/README.md#usage-information)
 4. [Demo](https://github.com/EChrist01/e-commerce-backend/blob/main/README.md#demo)
-5. [Questions]()
+5. [Questions](https://github.com/EChrist01/e-commerce-backend/blob/main/README.md#questions)
 
 ## Description.
 A working Express.js API configured to use Sequelize and interact with a MySQL database.
@@ -30,7 +30,9 @@ Main languages - Javascript.
 Run on - MySqlWorkbench, Insomnia.
 
 ## Usage Information.
-Page link will open the website, 
+-Clone this repo, in the terminal (gitBash) of the folder run <$ npm i> 
+-Then to kick off the server we will <$ npm run seed && npm start> in our same termianl.
+-check your localhost:3001 is running in a test server
 
 ## Demo.
 
