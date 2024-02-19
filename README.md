@@ -36,7 +36,7 @@ Run on - MySqlWorkbench, Insomnia.
 
 -check your localhost:3001 is running in a test server
 ## Demo.
-https://drive.google.com/file/d/1x-gojy5Bx8uz_ZxygevwjiimN0dfxW0s/view
+https://watch.screencastify.com/v/QVn6qhUFa3sv7pNNWMME
 ![Screenshot 2024-02-19 110034](https://github.com/EChrist01/e-commerce-backend/assets/146894896/97b06a51-9a84-4665-b0a8-47f44fae5ed9)
 
 
