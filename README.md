@@ -34,11 +34,9 @@ Run on - MySqlWorkbench, Insomnia.
 
 -Then to kick off the server we will <$ npm run seed && npm start> in our same termianl.
 
--check your localhost:3001 is running in a test server
+-check your HTTP requests in Insomnia on localhost:3001
 ## Demo.
-https://www.loom.com/share/3bb343522a1e4d13895b268da089ddde?sid=bb10b63a-9f0b-405f-83aa-0b3a51c396f5
-![Screenshot 2024-02-19 110034](https://github.com/EChrist01/e-commerce-backend/assets/146894896/97b06a51-9a84-4665-b0a8-47f44fae5ed9)
-
+https://www.loom.com/share/99a286c9adda4c73bdad6ba2791e5c54?sid=cf1acb22-f8dc-44dd-8b1f-d27744670da3
 
 ## Questions
 Github profile: 
@@ -46,6 +44,6 @@ Github profile:
 Email: Ethanchrist02@gmail.com
 
 ##Contributors
-activities 13-ORM and 12-SQL, Stackoverflow(eager error loading).
+activities 13-ORM and 12-SQL(activities 22-24), Stackoverflow(eager error loading).
 
 
